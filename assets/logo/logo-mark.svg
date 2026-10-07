@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Organization Admin Lite">
+  <path fill="#1E3A8A" d="M256 22 462 140v232L256 490 50 372V140L256 22Z"/>
+  <path fill="#3B82F6" d="M50 278 256 396l206-118v94L256 490 50 372v-94Z"/>
+  <g fill="#fff"><circle cx="256" cy="174" r="34"/><circle cx="171" cy="224" r="30"/><circle cx="341" cy="224" r="30"/><path d="M211 257c0-31 20-56 45-56s45 25 45 56v58h-90v-58Z"/><path d="M130 300c0-27 18-49 41-49s41 22 41 49v45h-82v-45Z"/><path d="M300 300c0-27 18-49 41-49s41 22 41 49v45h-82v-45Z"/></g>
+  <path fill="#1E3A8A" d="m175 346 81 54 81-54-81 98-81-98Z"/>
+</svg>
